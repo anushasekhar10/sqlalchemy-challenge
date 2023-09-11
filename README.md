@@ -45,7 +45,7 @@ Plot the results as a histogram with bin size of 12.
 
 Design a Flask API based on the queries that you just developed
 
-**Submission files will be **
+**Submission files will be:**
 
 1.Jupyter Notebook
 
